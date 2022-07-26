@@ -5,3 +5,4 @@ Utilizando el dataset público [heart.csv](https://www.kaggle.com/datasets/fedes
 
 En el pdf es posible encontrar el reporte completo con el tratamiento, análisis, implementación de los modelos, resultados y comparativa de los mismos.
 
+![](images/heartHistogramas.png)
